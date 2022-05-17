@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Hola, mi nombre es Victor Fernando Paz<h2>
+<h2>Hola, mi nombre es Victor Paz<h2>
+<hr>
+  <p>Desarrollador backend jr</p>
