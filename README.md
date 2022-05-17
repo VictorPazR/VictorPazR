@@ -14,19 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Hola, mi nombre es Victor Paz<h2>
-<hr>
-  <p>Desarrollador backend jr</p>
-  <p>Conocimientos adquiridos:</p>
-  <ul>
-    <li>Java</li>
-    <li>Spring</li>
-    <li>MySQL</li>
-    <li>SQLServer</li>
-    <li>OracleDB</li>
-    <li>HMTL</li>
-    <li>CSS</li>
-    <li>Bootstrap</li>
-    <li>JavaScript</li>
-    <li>C#</li>
-    <li>ASP.NET</li>
-  </ul>
+String[] victor = {
+    conocimientos : ["Java","Spring","MySQL","SQLServer","OracleDB","HMTL","CSS","Bootstrap","JavaScript","C#","ASP.NET"],
+    participaciones : ["Generation Mexico","Innovaccion Virtual"],
+    habilidadesblandas : ["Atención a los detalles","Resolución de conflictos","Trabajo en equipo","Adaptabilidad"],
+    github : ["VictorPazR"],
+    
+    Correo : ["victorferpazruiz@gmail.com"];
+}
+[![Linkedin : Victor Fernando Paz]]
