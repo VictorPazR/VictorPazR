@@ -6,4 +6,4 @@
     };
 Contactos:
 - [Linkedin](https://www.linkedin.com/in/victor-fernando-paz-ru/)
-- [Correo](victorferpazruiz@gmail.com)
+- Correo: victorferpazruiz@gmail.com
